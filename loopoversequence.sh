@@ -7,3 +7,4 @@ do
 cat sample2.txt >> $file
 
 done
+#comment 3
