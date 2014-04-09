@@ -1,3 +1,4 @@
 Feeding something else
 git status sample2.txt
 [B[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[[C[Cadditional line
+I CHANGED YOU
